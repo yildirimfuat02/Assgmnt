@@ -1,0 +1,9 @@
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\bin\Debug\Asgmnt.exe.config
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\bin\Debug\Asgmnt.exe
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\bin\Debug\Asgmnt.pdb
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\obj\Debug\Asgmnt.csprojResolveAssemblyReference.cache
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\obj\Debug\Asgmnt.Form1.resources
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\obj\Debug\Asgmnt.Properties.Resources.resources
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\obj\Debug\Asgmnt.csproj.GenerateResource.Cache
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\obj\Debug\Asgmnt.exe
+c:\users\ertany\documents\visual studio 2012\Projects\Asgmnt\Asgmnt\obj\Debug\Asgmnt.pdb
